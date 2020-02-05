@@ -6,7 +6,7 @@
 
 [![](https://img.shields.io/badge/version-1.4-55ACEE.svg)](https://github.com/x0rzkov/github2twitter/releases/tag/1.5)
 
-gitShare is a small but efficient Chrome extension, that allows to share any github project directly on Twitter or Facebook.
+github2twitter is a small but efficient Chrome extension, that allows to share any github project directly on Twitter or Facebook.
 
 ## Install
 - Clone this repo or grab the last [release](https://github.com/x0rzkov/github2twitter/releases/tag/1.5)
