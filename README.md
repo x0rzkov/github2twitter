@@ -1,15 +1,15 @@
 
-<h1 align="center">gitShare</h1>
+<h1 align="center">github2twitter</h1>
 <p align="center"><img src="http://puu.sh/kZz8M/537151bb8e.png"  /></p>
 
 ---
 
-[![](https://img.shields.io/badge/version-1.4-55ACEE.svg)](https://github.com/LukyVj/gitShare/releases/tag/1.4)
+[![](https://img.shields.io/badge/version-1.4-55ACEE.svg)](https://github.com/x0rzkov/github2twitter/releases/tag/1.5)
 
-gitShare is a small but efficient Chrome extension, that allows to share any github project directly on Twitter or Facebook.
+github2twitter is a small but efficient Chrome extension, that allows to share any github project directly on Twitter or Facebook.
 
 ## Install
-- Clone this repo or grab the last [release](https://github.com/LukyVj/gitShare/releases/tag/1.4)
+- Clone this repo or grab the last [release](https://github.com/x0rzkov/github2twitter/releases/tag/1.5)
 - Go to `chrome://extensions/`
 - If it's not already done, check the checkbox "Developer mode"
 - Click on "Load unpacked extension"
@@ -40,11 +40,6 @@ And as web-people, we should support projects that we do like / use.
 
 ## Help
 I'm a huge fan of open source projects, communities and team work, that's why I encourage you to [fork](https://github.com/LukyVj/gitShare#fork-destination-box) this project, and improve it or make it for an other browser.
-
-## The extension for everyone
-
-- [@JohJakob](https://github.com/JohJakob) created a [Safari version](https://github.com/JohJakob/gitShare-Safari) of the extension.
-- ... Yours ? ...
 
 ## Resources
 You can find different versions of the logo on the `assets/` folder.
